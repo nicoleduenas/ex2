@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 web",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Nicole Dueñas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
